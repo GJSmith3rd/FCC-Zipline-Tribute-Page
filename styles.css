@@ -77,13 +77,13 @@ p {
   color: orange;
 }
 #navbar {
-  background-color: #e7e7e7;
+  background-color: #E7E7E7;
   -webkit-filter: none;
           filter: none;
 }
 .navbar-header {
   padding-left: 15px;
-  background-color: #e7e7e7;
+  background-color: #E7E7E7;
 }
 .navbar-header:hover {
   background-color: lightgrey;
