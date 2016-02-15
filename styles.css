@@ -132,7 +132,8 @@ ul.nav li a:hover {
   padding-top: 35px;
 }
 .jumbotron {
-  margin-top: 70px;
+  margin-top: 55px;
+  margin-bottom: 5px;
 }
 #link {
   color: black;
