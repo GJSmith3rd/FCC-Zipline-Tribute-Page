@@ -90,17 +90,17 @@ p {
 }
 .navbar-brand {
   font-family: 'Bangers', cursive;;
-  color: darkgreen !important;
+  color: darkred !important;
 }
 .navbar-brand:hover {
-  color: darkred !important;
+  color: darkgreen !important;
 }
 ul.nav li a {
   font-family: 'Indie Flower', cursive;;
-  color: darkgreen !important;
+  color: darkred !important;
 }
 ul.nav li a:hover {
-  color: darkred !important;
+  color: darkgreen !important;
   background-color: lightgrey !important;
 }
 .footer {
@@ -110,11 +110,11 @@ ul.nav li a:hover {
   font-family: 'Indie Flower', cursive;;
   padding-right: 10px;
   padding-left: 10px;
-  color: darkgreen;
+  color: darkred;
   margin-top: 25px;
 }
 .footer a:hover {
-  color: darkred;
+  color: darkgreen;
   text-decoration: none;
 }
 #footer {
@@ -122,7 +122,7 @@ ul.nav li a:hover {
   padding-top: 15px;
   padding-left: 10px;
   font-size: 10px;
-  color: darkgreen;
+  color: darkred;
 }
 .home {
   display: table;
@@ -134,6 +134,7 @@ ul.nav li a:hover {
 .jumbotron {
   margin-top: 55px;
   margin-bottom: 5px;
+  padding-bottom: 5px;
 }
 #link {
   color: black;
