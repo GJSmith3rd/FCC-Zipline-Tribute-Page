@@ -1,11 +1,11 @@
 h1 {
-  font-family: 'Oleo Script Swash Caps', cursive;;
+  font-family: 'Bangers', cursive;;
   font-weight: 700;
   color: darkorange;
   text-shadow: 2px 1px 2px orange;
 }
 h2 {
-  font-family: 'Dancing Script', cursive;;
+  font-family: 'Indie Flower', cursive;;
   color: orange;
   text-shadow: 2px 1px 2px black;
 }
@@ -89,14 +89,14 @@ p {
   background-color: lightgrey;
 }
 .navbar-brand {
-  font-family: 'Oleo Script Swash Caps', cursive;;
+  font-family: 'Bangers', cursive;;
   color: darkgreen !important;
 }
 .navbar-brand:hover {
   color: darkorange !important;
 }
 ul.nav li a {
-  font-family: 'Dancing Script', cursive;;
+  font-family: 'Indie Flower', cursive;;
   color: darkgreen !important;
 }
 ul.nav li a:hover {
@@ -107,7 +107,7 @@ ul.nav li a:hover {
   padding-top: 25px;
 }
 .footer a {
-  font-family: 'Dancing Script', cursive;;
+  font-family: 'Indie Flower', cursive;;
   padding-right: 10px;
   padding-left: 10px;
   color: darkgreen;
@@ -118,7 +118,7 @@ ul.nav li a:hover {
   text-decoration: none;
 }
 #footer {
-  font-family: 'Oleo Script Swash Caps', cursive;;
+  font-family: 'Bangers', cursive;;
   padding-top: 15px;
   padding-left: 10px;
   font-size: 10px;
