@@ -3,7 +3,7 @@
 --------------------------------
 FreeCodeCamp, Zipline Project, Tribute Page.
 
-# GJSmith3rd/gjsmith3rd.github.io
+# mobilecreature.github.io
 [mobileCreature Web Design Studio](http://mobilecreature.github.io/)
 --------------------------------
 MobileCreature and Gilbert Smith portfolio site.
