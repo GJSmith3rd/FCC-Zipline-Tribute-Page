@@ -10,11 +10,11 @@
 @h2Color: yellow;
 @h2ShadowColor: black;
 
-@h3Color: darkred;
-@h3ShadowColor: darkgrey;
+@h3Color: yellow;
+@h3ShadowColor: black;
 
-@navColor: darkred;
-@navColorHover: darkgreen;
+@navColor: black;
+@navColorHover: yellow;
 @navBackgroundColor: #E7E7E7;
 @navBackgroundColorHover: lightgrey;
 
@@ -133,13 +133,12 @@ h3 {
 	}
 }
 p {
-    	font-family: @textFont;
+    font-family: @textFont;
 		font-weight: 600;
-		font-size: 20px;
+		font-size: 24px;
 		color: @textColor;
-
 }
-#navbar {
+.navbar {
 	background-color: @navBackgroundColor;
 	filter:none;
 }
@@ -187,21 +186,17 @@ ul.nav li a {
 	color: @navColor;
 
 }
-.home {
-	display: table;
-	// background: url(http://i.imgur.com/9PTZ4iW.png) no-repeat center center fixed;
-	// height:1000px;
-	position: relative;
-	width: 100%;
-	background-size: cover;
-	padding-top: 35px;
-}
 .jumbotron {
   margin-top: 55px;
   margin-bottom: 5px;
   padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-#link {
-	color: @textColor;
-	text-shadow: 1px 1px 1px @textShadowColor;
+img {
+  border-radius: 5px;
+}
+#timeline {
+  padding-left: 20px;
+  padding-right: 30px;
 }
