@@ -2,7 +2,3 @@
 $(document).ready(function() {
 
 });
-
-
-
-
