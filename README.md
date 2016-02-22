@@ -8,7 +8,8 @@ FreeCodeCamp, Zipline Project, Tribute Page.
 --------------------------------
 MobileCreature and Gilbert Smith portfolio site.
 
-A [CodePen](http://codepen.io/GJSmith3rd/pen/LGaWmK) and [FreeCodeCamp](http://freecodecamp.com/gjsmith3rd), Zipline Project - Tribute Page, by [Gilbert Smith](http://codepen.io/GJSmith3rd) on [CodePen](http://codepen.io/).
+A [CodePen - Tribute Page](http://codepen.io/GJSmith3rd/full/LGaWmK) and [FreeCodeCamp - GJSmith3rd](http://freecodecamp.com/gjsmith3rd), Zipline Project - Tribute Page, by [Gilbert Smith](http://codepen.io/GJSmith3rd) on [CodePen](http://codepen.io/).
 
-[License](http://codepen.io/GJSmith3rd/pen/RWojRp).
 [FreeCodeCamp](http://freecodecamp.com/gjsmith3rd).
+
+
