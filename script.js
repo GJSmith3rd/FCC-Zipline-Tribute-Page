@@ -1,4 +1,2 @@
-/* global $ */
-$(document).ready(function() {
-
-});
+/*! (c) 2016 mobileCreature - GJSmith3rd - Gilbert Joseph Smith III (MIT) */
+$(document).ready(function(){var o=!0;/^10.0.0/.test(location.hostname)&&o?$(".adsense").remove():$.getScript("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"),function(){$.cloudinary.config({}),$.cloudinary.responsive({type:"fetch",responsive_use_stoppoints:!0}),$("#cld-img-id").load(function(){$("#cld-parent-id").css("backgroundImage","url("+$("#cld-img-id").attr("src")+")")})}()});
