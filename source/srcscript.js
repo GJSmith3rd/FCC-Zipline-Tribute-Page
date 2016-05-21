@@ -15,16 +15,14 @@ $(document).ready(function() {
     $.getScript('//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js');
   }
 
-  /*
+   /*
   * Cloudinary jQuery/JS Dynamic Images
   */
 
   (function () {
 
     $.cloudinary.config(
-      {
-
-      }
+      {}
     );
 
     $.cloudinary.responsive({
@@ -37,5 +35,4 @@ $(document).ready(function() {
     });
 
   })();
-
 });
