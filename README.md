@@ -1,8 +1,8 @@
-# [Tribute-Page](https://github.com/GJSmith3rd/FCC-Zipline-Tribute-Page)
+# [Tribute-Page](http://s.codepen.io/GJSmith3rd/debug/LGaWmK)
 --------------------------------
 #### A FreeCodeCamp Project.
 
-[mobileCreature Web Design Studio](http://mobilecreature.github.io/)
+[mobileCreature Web Design Studio](http://mobilecreature.github.io/) - hosted on GitHub
 --------------------------------
 A mobileCreature and Gilbert Smith project.
 

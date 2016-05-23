@@ -1,7 +1,7 @@
 /* global $ */
 $(document).ready(function() {
 
-  var stopGoogleAds = true;
+  var stopGoogleAds = false;
 
   //Test for local dev network
   if (/^10.0.0/.test(location.hostname) && stopGoogleAds) {
